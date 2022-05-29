@@ -6,7 +6,6 @@ The Azure Synapse Analyzer Report was created to help you identify common issues
   https://youtu.be/dRaLicocQuI  
 ## Taxi Data Set
    https://docs.microsoft.com/en-us/azure/open-datasets/dataset-taxi-yellow?tabs=azureml-opendatasets
-## Report Details
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
