@@ -2,6 +2,11 @@
 
 The Azure Synapse Analyzer Report was created to help you identify common issues that may be present in your database that can lead to performance issues. This report focuses on known best practices that Microsoft has identified with SQL Dedicated Pools. Following these best practices will help to get the best performance out of your solution. The [Azure Synapse Best Practice Analyzer Report](https://aka.ms/synapseanalyzer "Synapse BPA Report") should help give you insights into the health of your database. We will continue to update the report to call out defined best practices that Microsoft has defined.
 
+## Video  
+  https://youtu.be/dRaLicocQuI  
+## Taxi Data Set
+   https://docs.microsoft.com/en-us/azure/open-datasets/dataset-taxi-yellow?tabs=azureml-opendatasets
+## Report Details
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
