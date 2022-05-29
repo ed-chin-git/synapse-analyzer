@@ -2,6 +2,8 @@
 
 The Azure Synapse Analyzer Report is created to help you identify common issues that may be present in your database that can lead to performance issues. This report focuses on known best practices that Microsoft has identified with SQL Dedicated Pools. Following these best practices will help to get the best performance out of your solution.
 
+## Video  
+  https://youtu.be/dRaLicocQuI  
 ## Report Details
 
 This report provides key information around Table and Index storage for your Synapse Dedicated Pool (DW) database. 
