@@ -4,6 +4,8 @@ The Azure Synapse Analyzer Report is created to help you identify common issues 
 
 ## Video  
   https://youtu.be/dRaLicocQuI  
+## Taxi Data Set
+   https://docs.microsoft.com/en-us/azure/open-datasets/dataset-taxi-yellow?tabs=azureml-opendatasets
 ## Report Details
 
 This report provides key information around Table and Index storage for your Synapse Dedicated Pool (DW) database. 
